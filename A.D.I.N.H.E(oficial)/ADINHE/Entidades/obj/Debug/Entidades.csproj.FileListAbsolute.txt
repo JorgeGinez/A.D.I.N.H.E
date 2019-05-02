@@ -1,0 +1,8 @@
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Biblioteca1\bin\Debug\Biblioteca1.dll
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Biblioteca1\bin\Debug\Biblioteca1.pdb
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Biblioteca1\obj\Debug\Biblioteca1.dll
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Biblioteca1\obj\Debug\Biblioteca1.pdb
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Entidades\bin\Debug\Biblioteca1.dll
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Entidades\bin\Debug\Biblioteca1.pdb
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Entidades\obj\Debug\Biblioteca1.dll
+C:\Users\Jorge Ginez\Desktop\A.D.I.N.H.E(revisar)\A.D.I.N.H.E(oficial)\ADINHE\Entidades\obj\Debug\Biblioteca1.pdb
